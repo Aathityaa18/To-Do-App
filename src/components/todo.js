@@ -32,7 +32,7 @@ export default function Todo() {
   }
   return (
     <div className="container row">
-      <h1 className="mt-3 text-white">Make your own notes</h1>
+      <h1 className="mt-4 text-white">Make your own notes...</h1>
       <div className="col-8">
         <input
           name="task"
